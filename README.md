@@ -1,1 +1,1 @@
-# Andrew-NG-assignment-solutions
+# Andrew-NG-assignment-solutions for Machine Learning course
